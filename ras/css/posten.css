@@ -1,0 +1,79 @@
+@import url(http://fonts.googleapis.com/css?family=Bad+Script);
+
+.deck-container {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	line-height: 1.25;
+	background: #333;
+	color: #fff;
+}
+
+p {
+	margin-top: 1em;
+}
+
+::selection {
+	background: #ffa500;
+	color: #fff;
+}
+
+h3 {
+	margin-top: 30%;
+	text-align: center;
+}
+
+ img {
+	
+	height: 170px;
+}
+
+h1, h3 {
+	font-family: "Bad Script";
+	color: #fff;
+	text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+#hvor {
+	background: url('../img/posten.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#anja {
+	margin-top: 10%;
+}
+
+#enonic {
+	background: url('../img/enonic.png') no-repeat center center fixed;
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#do-not-want {
+	margin-top: 25%;
+}
+
+
+#good-shit {
+	background: url('../img/coffee.png') no-repeat center center fixed;
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#spm-1 h1{
+	margin-top: 20%;
+}
+
+#sporsmal p {
+	margin-top: 1em;
+	font-size: 1.5em;
+}
+
+.sub-app {
+	display: inline-block;
+}
